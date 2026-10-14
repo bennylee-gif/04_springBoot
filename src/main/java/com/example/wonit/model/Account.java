@@ -18,3 +18,4 @@ public class Account {
 
     // @Setter 대신에 우리가 만든 별도의 status가 지급정지는 아닌지, 잔액이 불충분하지는 않은지 확인하는 예외를 만들어서 처리
 }
+
